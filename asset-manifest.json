@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio-2.0/static/css/main.73e2ad5f.css",
+    "main.js": "/portfolio-2.0/static/js/main.a5dd4ec5.js",
+    "static/media/BSE-clip.gif": "/portfolio-2.0/static/media/BSE-clip.37f67e1937025774e873.gif",
+    "static/media/movieApp-image.jpg": "/portfolio-2.0/static/media/movieApp-image.b84e3582cab5e30222b1.jpg",
+    "static/media/plant-social-media-image.jpg": "/portfolio-2.0/static/media/plant-social-media-image.809974648d142db2a9a9.jpg",
+    "static/media/tech-blog-home.jpg": "/portfolio-2.0/static/media/tech-blog-home.babef69279165a344711.jpg",
+    "static/media/Screenshot 2023-02-07 150354.jpg": "/portfolio-2.0/static/media/Screenshot 2023-02-07 150354.1cc8d9029fdfd0c7e4f8.jpg",
+    "static/media/Milo-Ellsworth-Resume.pdf": "/portfolio-2.0/static/media/Milo-Ellsworth-Resume.12d41fd81c4110b5984e.pdf",
+    "static/media/generator capture.jpg": "/portfolio-2.0/static/media/generator capture.3203c1bbde91ce83a38b.jpg",
+    "index.html": "/portfolio-2.0/index.html",
+    "main.73e2ad5f.css.map": "/portfolio-2.0/static/css/main.73e2ad5f.css.map",
+    "main.a5dd4ec5.js.map": "/portfolio-2.0/static/js/main.a5dd4ec5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73e2ad5f.css",
+    "static/js/main.a5dd4ec5.js"
+  ]
+}
