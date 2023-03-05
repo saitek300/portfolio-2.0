@@ -7,37 +7,16 @@
     
   a portfolio containing personal info and projects
     
-## Table of Contents
-    
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-    
-## Installation
-    
-  The following dependencies must be installed to use this application 
-    
-## Usage
-  in order to use this app, 
-    
-## Credits
-    
-  
-    
+## link
+
+  https://saitek300.github.io/portfolio-2.0/
+
 ## License
     
   this project is covered under the MIT license
 
   https://choosealicense.com/licenses/mit/ 
 
-## How to Contribute
-    
-  
-    
-## Tests
-
-  
 
 ## Questions
 
@@ -50,3 +29,8 @@
   Email address:
 
   saitek300@gmail.com
+
+
+
+
+
