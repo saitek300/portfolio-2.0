@@ -1,5 +1,5 @@
 import React from "react";
-import miloPic from '../../images/milo profile pic.jpg'
+import miloPic from '../../images/Milo Ellsworth Profile pic.jpg'
 
 const styles = {
     h1Style:{
