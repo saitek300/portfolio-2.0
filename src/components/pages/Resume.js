@@ -1,5 +1,5 @@
 import React from "react";
-import pdf from "./Milo-Ellsworth-Resume.pdf"
+import pdf from "./Milo-Ellsworth-Full-Stack-Resume.pdf"
 
 export default function Resume() {
     return (
