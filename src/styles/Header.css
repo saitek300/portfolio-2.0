@@ -30,11 +30,11 @@ p {
 
 img{
     display: block;
-    width: 400px;
-    height: 285px;
+    width: 800px;
+    height: 480px;
 
 }
-
+/* About Me Page */
  img.profilePic{
     display: block;
     margin-left: auto;
@@ -43,11 +43,12 @@ img{
     height: 20%;
     border-radius: 10px;
 }
-
+/* Portfolio Page */
 div.projectContainer{
     position: relative;
     width: 50%;
-    max-width: 400px;
+    max-width: 800px;
+    max-height: 480px;
     margin-bottom: 10px;
 }
 
@@ -79,14 +80,14 @@ div.project-body .fa-github:before {
     padding-left: 21px;
 }
 
-form.contact-form{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    font-size:30px
+a.project-link{
+    font-size:40px;
+    font-weight: bold;
 }
-
+p.project-tech{
+    color:#D3DFB8
+}
+/* Resume Page */
 div.resumeListContainer {
     display:flex;
     justify-content: center;

@@ -68,7 +68,7 @@ export default function Contact() {
                 <h1 style={styles.h1Style}>Contact</h1>
                 <a href="mailto:saitek300@gmail.com" style={styles.textStyle}>saitek300@gmail.com</a>
                 <h2 style={styles.h2Style}>Phone #</h2>
-                <p style={styles.textStyle}>(916)475-2480</p><br></br>
+                <p style={styles.textStyle}>(916) 475-2480</p><br></br>
                 <p style={styles.textStyle}>(*for additional contact links use the icons below)</p>
                 
         </div>

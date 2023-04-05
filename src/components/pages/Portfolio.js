@@ -10,7 +10,7 @@ import techBlogImg from "../../images/tech-blog-home.jpg";
 const movieApp = {
     img: movieAppImg,
     title: 'What should I watch next',
-    description: 'Movie/show generator app for when you dont know what to watch next.',
+    description: 'Movie / show generator app for when you dont know what to watch next.',
     link: "https://saitek300.github.io/what-should-i-watch-next/",
     github: 'https://github.com/saitek300/what-should-i-watch-next',
     tech:"JavaScript / Server Side API / Bootstrap"
