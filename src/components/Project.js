@@ -23,6 +23,7 @@ export default function Project(props) {
               <a href={props.link} className="project-link">{props.title}</a>
               <a href={props.github} className="fa-brands fa-github fa-2x"></a>
               <p className="project-description">{props.description}</p>
+              <p className="project-tech">{props.tech}</p>
             </div>
           </div>
     </div>
