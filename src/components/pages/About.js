@@ -21,7 +21,7 @@ const styles = {
 export default function About() {
     return(
         <div>
-            <img src={miloPic} className='profilePic'></img>
+            <img src={miloPic} alt='milo profile' className='profilePic'></img>
             <h1 style={styles.h1Style}>About Me</h1>
             <p style={styles.textStyle}>Hello, My name is Milo Ellsworth.<br></br>
             I'm an aspiring full stack web developer, <br></br>
