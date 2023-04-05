@@ -8,9 +8,9 @@
   a portfolio containing personal info and projects
 
 ## Screenshots
-  ![About me](src\images\Screenshot-portfolio-aboutme.jpg)
+  ![About me](src/images/Screenshot-portfolio-aboutme.jpg)
 
-  ![portfolio](src\images\Screenshot-portfolio-portfolio.jpg)
+  ![portfolio](src/images/Screenshot-portfolio-portfolio.jpg)
     
 ## link
 
